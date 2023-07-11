@@ -1,16 +1,24 @@
-### Hi there 👋
+## Olá! Eu sou o Victor =P
 
-<!--
-**viktsys/viktsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software @ Morphus 🧑‍💻  
+Aprendendo as artes binárias (Hacking) 🐱‍💻  
+Explorando o incrível mundo da IA na área de Cibersegurança 🤖  
 
-Here are some ideas to get you started:
+### Sobre mim:
+    - Nascido e criado em Fortaleza (CE) 🌅
+    - Graduando em Ciências da Computação (UFC) 🎓
+    - Apaixonado por programação desde os 8 anos  💾
+    - Um orgulhoso homem bi/pansexual 💜💛💙
+    - Pronomes: ele/dele ♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas ferramentas de escolha:
+    - Java, Scala e Kotlin ☕
+    - Javascript e Typescript 🍵💙
+    - Python 🐍
+    - C/C++ 🛠️⚙️
+
+### Além disso, estou explorando:
+    - Erlang e Elixir
+    - Clojure (Datomic)
+    - LLMs (Large Language Models)
+    - Vector DB (Qdrant)
