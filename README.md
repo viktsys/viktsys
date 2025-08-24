@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Victor =P
 
-Engenheiro de Software @ Morphus 🧑‍💻  
+Engenheiro de Software @ Zup Innovation 🧑‍💻  
 Aprendendo as artes binárias (Hacking) 🐱‍💻  
 Explorando o incrível mundo da IA na área de Cibersegurança 🤖  
 
@@ -9,16 +9,14 @@ Explorando o incrível mundo da IA na área de Cibersegurança 🤖
     - Graduando em Ciências da Computação (UFC) 🎓
     - Apaixonado por programação desde os 8 anos  💾
     - Um orgulhoso homem bi/pansexual 💜💛💙
-    - Pronomes: ele/dele ♂️
+    - Pronomes: ele/dele - elu/delu ♂️
 
 ### Minhas ferramentas de escolha:
     - Java, Scala e Kotlin ☕
     - Javascript e Typescript 🍵💙
     - Python 🐍
-    - C/C++ 🛠️⚙️
+    - Golang 🛠️⚙️
+    - Elixir
 
 ### Além disso, estou explorando:
-    - Erlang e Elixir
-    - Clojure (Datomic)
-    - LLMs (Large Language Models)
-    - Vector DB (Qdrant)
+    - Clojure (+ Datomic)
